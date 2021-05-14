@@ -1,0 +1,12 @@
+{
+    "name": "jonsi/zarcero-controller",
+    "description": "Ejercicio 5 Proyecto Francesc",
+    "type": "package",
+    "authors": [
+        {
+            "name": "alzaga00",
+            "email": "azarcerogarcia@gmail.com"
+        }
+    ],
+    "require": {}
+}
